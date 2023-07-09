@@ -3,7 +3,7 @@ function Head() {
     <>
       <title>VR Thingy</title>
       <meta content="width=device-width, initial-scale=1" name="viewport" />
-      <link rel="icon" href="/images/vrthingy-fav.ico" />
+      <link rel="icon" href="/images/favicon.ico" />
     </>
   );
 }
