@@ -15,7 +15,7 @@ const Header = () => {
         <Link key="news" href="/news" className="text-xl " aria-label="news">
           News
         </Link>
-        <Link key="NSt" href="/" className="text-4xl " aria-label="VR thingy">
+        <Link key="NSt" href="/" className="text-4xl " aria-label="NS Thingy">
           NSt
         </Link>
         <Link key="about" href="/about" className="text-xl " aria-label="about">
@@ -34,7 +34,7 @@ const Header = () => {
         <Link
           href="/"
           className="text-4xl font-extrabold py-5"
-          aria-label="VR thingy"
+          aria-label="NS Thingy"
         >
           NSt
         </Link>
